@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="123295" started-at="2021-05-23T09:19:36 IST" finished-at="2021-05-23T09:21:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="123295" started-at="2021-05-23T09:19:36 IST" finished-at="2021-05-23T09:21:39 IST">
+      <class name="testcases.HealthInsurancelist">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.HealthInsurancelist@3514a4c0]" name="setup" is-config="true" duration-ms="20450" started-at="2021-05-23T09:21:12 IST" finished-at="2021-05-23T09:21:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="gethealthmenu()[pri:1, instance:testcases.HealthInsurancelist@3514a4c0]" name="gethealthmenu" duration-ms="947" started-at="2021-05-23T09:21:33 IST" finished-at="2021-05-23T09:21:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gethealthmenu -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.HealthInsurancelist@3514a4c0]" name="flushReports" is-config="true" duration-ms="33" started-at="2021-05-23T09:21:34 IST" finished-at="2021-05-23T09:21:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="close()[pri:2, instance:testcases.HealthInsurancelist@3514a4c0]" name="close" duration-ms="5598" started-at="2021-05-23T09:21:34 IST" finished-at="2021-05-23T09:21:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.HealthInsurancelist@3514a4c0]" name="flushReports" is-config="true" duration-ms="39" started-at="2021-05-23T09:21:39 IST" finished-at="2021-05-23T09:21:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- testcases.HealthInsurancelist -->
+      <class name="testcases.TravelInsuranceDetails">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="setup" is-config="true" duration-ms="38374" started-at="2021-05-23T09:19:36 IST" finished-at="2021-05-23T09:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="opentravelinsurancepage()[pri:1, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="opentravelinsurancepage" duration-ms="836" started-at="2021-05-23T09:20:15 IST" finished-at="2021-05-23T09:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opentravelinsurancepage -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="5" started-at="2021-05-23T09:20:15 IST" finished-at="2021-05-23T09:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="student()[pri:2, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="student" duration-ms="1604" started-at="2021-05-23T09:20:15 IST" finished-at="2021-05-23T09:20:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- student -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="347" started-at="2021-05-23T09:20:17 IST" finished-at="2021-05-23T09:20:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="dest()[pri:3, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="dest" duration-ms="638" started-at="2021-05-23T09:20:17 IST" finished-at="2021-05-23T09:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dest -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="90" started-at="2021-05-23T09:20:18 IST" finished-at="2021-05-23T09:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="age()[pri:4, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="age" duration-ms="523" started-at="2021-05-23T09:20:18 IST" finished-at="2021-05-23T09:20:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- age -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="37" started-at="2021-05-23T09:20:19 IST" finished-at="2021-05-23T09:20:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="start()[pri:5, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="start" duration-ms="813" started-at="2021-05-23T09:20:19 IST" finished-at="2021-05-23T09:20:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="33" started-at="2021-05-23T09:20:20 IST" finished-at="2021-05-23T09:20:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="click()[pri:6, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="click" duration-ms="240" started-at="2021-05-23T09:20:20 IST" finished-at="2021-05-23T09:20:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="64" started-at="2021-05-23T09:20:20 IST" finished-at="2021-05-23T09:20:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="fill()[pri:7, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="fill" duration-ms="1501" started-at="2021-05-23T09:20:20 IST" finished-at="2021-05-23T09:20:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="41" started-at="2021-05-23T09:20:21 IST" finished-at="2021-05-23T09:20:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="sort()[pri:8, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="sort" duration-ms="5385" started-at="2021-05-23T09:20:21 IST" finished-at="2021-05-23T09:20:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="13171" started-at="2021-05-23T09:20:27 IST" finished-at="2021-05-23T09:20:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="productdetails()[pri:9, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="productdetails" duration-ms="195" started-at="2021-05-23T09:20:40 IST" finished-at="2021-05-23T09:20:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productdetails -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="30" started-at="2021-05-23T09:20:40 IST" finished-at="2021-05-23T09:20:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="close()[pri:10, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="close" duration-ms="2024" started-at="2021-05-23T09:20:40 IST" finished-at="2021-05-23T09:20:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.TravelInsuranceDetails@2fd1433e]" name="flushReports" is-config="true" duration-ms="51" started-at="2021-05-23T09:20:42 IST" finished-at="2021-05-23T09:20:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- testcases.TravelInsuranceDetails -->
+      <class name="testcases.CarInsuranceErrorMessage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="setup" is-config="true" duration-ms="18811" started-at="2021-05-23T09:20:42 IST" finished-at="2021-05-23T09:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickcarbutton()[pri:1, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="clickcarbutton" duration-ms="286" started-at="2021-05-23T09:21:01 IST" finished-at="2021-05-23T09:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickcarbutton -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="36" started-at="2021-05-23T09:21:01 IST" finished-at="2021-05-23T09:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="proceed()[pri:2, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="proceed" duration-ms="829" started-at="2021-05-23T09:21:01 IST" finished-at="2021-05-23T09:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceed -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="53" started-at="2021-05-23T09:21:02 IST" finished-at="2021-05-23T09:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="city()[pri:3, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="city" duration-ms="575" started-at="2021-05-23T09:21:02 IST" finished-at="2021-05-23T09:21:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- city -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="38" started-at="2021-05-23T09:21:03 IST" finished-at="2021-05-23T09:21:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="carbrand()[pri:4, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="carbrand" duration-ms="460" started-at="2021-05-23T09:21:03 IST" finished-at="2021-05-23T09:21:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carbrand -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="35" started-at="2021-05-23T09:21:03 IST" finished-at="2021-05-23T09:21:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="carmodel()[pri:5, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="carmodel" duration-ms="323" started-at="2021-05-23T09:21:03 IST" finished-at="2021-05-23T09:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carmodel -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="30" started-at="2021-05-23T09:21:04 IST" finished-at="2021-05-23T09:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="type()[pri:6, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="type" duration-ms="354" started-at="2021-05-23T09:21:04 IST" finished-at="2021-05-23T09:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- type -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="24" started-at="2021-05-23T09:21:04 IST" finished-at="2021-05-23T09:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="varient()[pri:7, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="varient" duration-ms="300" started-at="2021-05-23T09:21:04 IST" finished-at="2021-05-23T09:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varient -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="37" started-at="2021-05-23T09:21:04 IST" finished-at="2021-05-23T09:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="year()[pri:8, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="year" duration-ms="255" started-at="2021-05-23T09:21:04 IST" finished-at="2021-05-23T09:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- year -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="36" started-at="2021-05-23T09:21:05 IST" finished-at="2021-05-23T09:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="filldetails()[pri:9, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="filldetails" duration-ms="1017" started-at="2021-05-23T09:21:05 IST" finished-at="2021-05-23T09:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filldetails -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="26" started-at="2021-05-23T09:21:06 IST" finished-at="2021-05-23T09:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="screenshot()[pri:10, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="screenshot" duration-ms="303" started-at="2021-05-23T09:21:06 IST" finished-at="2021-05-23T09:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="29" started-at="2021-05-23T09:21:06 IST" finished-at="2021-05-23T09:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="close()[pri:11, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="close" duration-ms="6214" started-at="2021-05-23T09:21:06 IST" finished-at="2021-05-23T09:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testcases.CarInsuranceErrorMessage@29d89d5d]" name="flushReports" is-config="true" duration-ms="43" started-at="2021-05-23T09:21:12 IST" finished-at="2021-05-23T09:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- testcases.CarInsuranceErrorMessage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
