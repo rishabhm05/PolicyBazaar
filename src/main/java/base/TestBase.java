@@ -150,7 +150,7 @@ public class TestBase {
 		
     }
 		
-	@AfterMethod(groups= {"Regression","Default"})
+	@AfterMethod
 	public void flushReports()throws Exception {
 	report.flush();
 	}
